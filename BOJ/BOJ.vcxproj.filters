@@ -36,5 +36,11 @@
     <ClCompile Include="Strfry.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5427Fire.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15683감시.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
