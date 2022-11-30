@@ -13,6 +13,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\연결리스트">
+      <UniqueIdentifier>{b9a0db82-d821-4fd7-bc65-d6bd3abe0716}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백트래킹">
+      <UniqueIdentifier>{2a337cb0-d4ec-4f0d-b627-1c238d8fe77b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="숫자의 개수.cpp">
@@ -44,6 +50,18 @@
     </ClCompile>
     <ClCompile Include="15683감시_2.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1406에디터.cpp">
+      <Filter>소스 파일\연결리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="15649N과M.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="15649_2.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="15650N과M2.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
