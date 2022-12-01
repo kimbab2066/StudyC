@@ -19,32 +19,14 @@
     <Filter Include="소스 파일\백트래킹">
       <UniqueIdentifier>{2a337cb0-d4ec-4f0d-b627-1c238d8fe77b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\초반부">
+      <UniqueIdentifier>{7e1e97e0-750f-4b82-8d5a-c5a177245b36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BFS">
+      <UniqueIdentifier>{52b81437-de36-4179-b3a8-71b0bcd89f7a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="숫자의 개수.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="방번호.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="두 수의 합.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="샘플.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="개수 세기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="방 배정.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Strfry.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="5427Fire.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="15683감시.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -61,6 +43,36 @@
       <Filter>소스 파일\백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="15650N과M2.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="15650N과M2_2.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="Strfry.cpp">
+      <Filter>소스 파일\초반부</Filter>
+    </ClCompile>
+    <ClCompile Include="개수 세기.cpp">
+      <Filter>소스 파일\초반부</Filter>
+    </ClCompile>
+    <ClCompile Include="두 수의 합.cpp">
+      <Filter>소스 파일\초반부</Filter>
+    </ClCompile>
+    <ClCompile Include="방 배정.cpp">
+      <Filter>소스 파일\초반부</Filter>
+    </ClCompile>
+    <ClCompile Include="방번호.cpp">
+      <Filter>소스 파일\초반부</Filter>
+    </ClCompile>
+    <ClCompile Include="샘플.cpp">
+      <Filter>소스 파일\초반부</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자의 개수.cpp">
+      <Filter>소스 파일\초반부</Filter>
+    </ClCompile>
+    <ClCompile Include="5427Fire.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="15651N과M3.cpp">
       <Filter>소스 파일\백트래킹</Filter>
     </ClCompile>
   </ItemGroup>
