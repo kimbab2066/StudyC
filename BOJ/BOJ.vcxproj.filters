@@ -123,5 +123,23 @@
     <ClCompile Include="1780.cpp">
       <Filter>소스 파일\재귀</Filter>
     </ClCompile>
+    <ClCompile Include="1780_2.cpp">
+      <Filter>소스 파일\재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="1074.cpp">
+      <Filter>소스 파일\재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="17478.cpp">
+      <Filter>소스 파일\재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="17478_2.cpp">
+      <Filter>소스 파일\재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="1780_3.cpp">
+      <Filter>소스 파일\재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="2630.cpp">
+      <Filter>소스 파일\재귀</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
