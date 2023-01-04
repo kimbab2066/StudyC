@@ -4,28 +4,21 @@
 
 using namespace std;
 
-int n, m, arr[10], num[10];
-bool used[10];
+int n, m, num[10], arr[10];
 
 void func(int k) {
 	if (k == m) {
 		for (int i = 0; i < m; i++) {
-			cout << arr[i] << " ";
+			cout << num[arr[i]] << " ";
 		}
 		cout << "\n";
 		return;
 	}
-	int tmp = 0;
 	for (int i = 0; i < n; i++) {
-		if (!used[i] && tmp != num[i]) {
-			used[i] = 1;
-			arr[k] = num[i];
-			tmp = arr[k];
-			func(k + 1);
-			used[i] = 0;
-		}
+		arr[k] = i;
+		func(k + 1);
 	}
-}//func
+}
 
 int main(void) {
 	ios::sync_with_stdio(0);

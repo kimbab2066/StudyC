@@ -96,9 +96,6 @@
     <ClCompile Include="2206_2.cpp">
       <Filter>소스 파일\BFS</Filter>
     </ClCompile>
-    <ClCompile Include="15663.cpp">
-      <Filter>소스 파일\백트래킹</Filter>
-    </ClCompile>
     <ClCompile Include="11931.cpp">
       <Filter>소스 파일\정렬</Filter>
     </ClCompile>
@@ -140,6 +137,27 @@
     </ClCompile>
     <ClCompile Include="2630.cpp">
       <Filter>소스 파일\재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="1992.cpp">
+      <Filter>소스 파일\재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="1992_2.cpp">
+      <Filter>소스 파일\재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="15655.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="15656.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="15657.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="15663.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="15664.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
