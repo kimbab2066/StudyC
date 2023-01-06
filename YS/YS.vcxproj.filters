@@ -16,10 +16,28 @@
     <Filter Include="소스 파일\0105%281일차%29">
       <UniqueIdentifier>{9013b689-0b7d-45e9-9f95-10178bb58276}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\0106%282일차%29">
+      <UniqueIdentifier>{fbf3977e-5c8f-47b4-afe6-6330b80060bd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1.cpp">
+    <ClCompile Include="day1_1.cpp">
       <Filter>소스 파일\0105%281일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day1_2.cpp">
+      <Filter>소스 파일\0105%281일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day2_1.cpp">
+      <Filter>소스 파일\0106%282일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="샘플.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="day2_2.cpp">
+      <Filter>소스 파일\0106%282일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day2_3.cpp">
+      <Filter>소스 파일\0106%282일차%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
