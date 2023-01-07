@@ -168,5 +168,8 @@
     <ClCompile Include="연습.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="16987.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

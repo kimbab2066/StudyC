@@ -9,6 +9,8 @@ int main(void) {
 	cin.tie(0);
 	//input
 
+	//logic
+
 	//output
 
 	return 0;
