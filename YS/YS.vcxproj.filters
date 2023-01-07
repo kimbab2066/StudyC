@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\0106%282일차%29">
       <UniqueIdentifier>{fbf3977e-5c8f-47b4-afe6-6330b80060bd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\테스트">
+      <UniqueIdentifier>{b1b1343d-a574-4b69-bb9e-55aa9a3db37e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="day1_1.cpp">
@@ -38,6 +41,9 @@
     </ClCompile>
     <ClCompile Include="day2_3.cpp">
       <Filter>소스 파일\0106%282일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="테스트.cpp">
+      <Filter>소스 파일\테스트</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
