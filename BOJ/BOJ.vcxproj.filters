@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\재귀">
       <UniqueIdentifier>{e36bf188-714d-4bbb-a0f5-91e6e331d337}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\정렬2">
+      <UniqueIdentifier>{98dbf35b-1053-41ab-95db-1256eff271f3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="15683감시.cpp">
@@ -170,6 +173,12 @@
     </ClCompile>
     <ClCompile Include="16987.cpp">
       <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="5648.cpp">
+      <Filter>소스 파일\정렬2</Filter>
+    </ClCompile>
+    <ClCompile Include="11652.cpp">
+      <Filter>소스 파일\정렬2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
