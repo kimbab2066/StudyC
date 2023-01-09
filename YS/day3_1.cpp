@@ -36,8 +36,22 @@ void tmp3() {
 	printf("%d", sum);
 
 }
-
 void tmp4() {
+	int n, p = 0;
+	scanf_s("%d", &n);
+	//logic
+	for (int i = 1; i <= n; i++) {
+		for (int j = 1; j <= n; j++) {
+			if (j <= p) printf(" ");
+			else printf("*");
+		}
+		p++;
+		printf("\n");
+	}
+	//output
+}
+
+void tmp5() {
 	//input
 	int i, j, n, k, p;
 	scanf_s("%d", &n);
@@ -61,7 +75,7 @@ void tmp4() {
 // 공백(p) = n/2에서 시작, 0에서 else
 // column 1부터 시작 n/2+1까지 돌고 이후론 --
 // 전체 칸은 1 3 5 3 1과 같이 i +=2, i -= 2로 하면 됨
-void tmp5() {
+void tmp6() {
 	int i, j, n, k, p, m;
 	scanf_s("%d", &n);
 	k = 1, p = n / 2;
