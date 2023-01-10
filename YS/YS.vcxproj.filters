@@ -25,6 +25,12 @@
     <Filter Include="소스 파일\0109%283일차%29">
       <UniqueIdentifier>{3f9fd342-3dbb-42a6-b6ee-0191698cea90}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\복습">
+      <UniqueIdentifier>{32648d40-57eb-4fff-be11-ec5de53b8357}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\예습">
+      <UniqueIdentifier>{dc7b3b62-0f3e-4a02-9839-8256c27bd32e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="day1_1.cpp">
@@ -62,6 +68,12 @@
     </ClCompile>
     <ClCompile Include="day3_3.cpp">
       <Filter>소스 파일\0109%283일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="3일차복습.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
+    <ClCompile Include="T1.cpp">
+      <Filter>소스 파일\예습</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
