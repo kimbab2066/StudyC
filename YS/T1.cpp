@@ -1,23 +1,17 @@
 #include <stdio.h>
 
-#define OFF 10
-
 int main() {
 	//input
-	int n, i, j, num[10] = {};
+	int a, b, c;
 	//logic
-	for (i = 0; i < 10; i++) {
-		scanf_s("%d", &n);
-		num[i] = n;
+	scanf_s("%d%d%d", &a, &b, &c);
+	printf("0.");
+	while (c--) {
+		a *= 10;
+		printf("%d", a / b);
+		a %= b;
 	}
 
-	for (i = 0; i < 10; i++) {
-		int cnt = 0;
-		for (j = 0; j < 10; j++) {
-			if (num[i] == num[j]) cnt++;
-		}
-		if (cnt == 1) printf("%d ", num[i]);
-	}
 	//output
 
 	return 0;
