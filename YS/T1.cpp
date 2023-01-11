@@ -1,18 +1,19 @@
 #include <stdio.h>
 
+
 int main() {
 	//input
-	int a, b, c;
+	int n, i;
+	scanf_s("%d", &n);
 	//logic
-	scanf_s("%d%d%d", &a, &b, &c);
-	printf("0.");
-	while (c--) {
-		a *= 10;
-		printf("%d", a / b);
-		a %= b;
+	int* arr = new int[n];
+	for (i = 0; i < n; i++) {
+		scanf_s("%d", &arr[i]);
 	}
-
 	//output
+	for (i = n - 1; i >= 0; i--) {
+		printf("%d ", arr[i]);
+	}
 
 	return 0;
 }//main

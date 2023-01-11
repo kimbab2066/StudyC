@@ -2,19 +2,14 @@
 
 int main() {
 	//input
-	int a, b;
-	scanf_s("%d%d", &a, &b);
-	printf("%d %d ", a, b);
-	int prev = a, next = b, tmp;
-	while (1) {
-		if (prev - next < 0) break;
-		printf("%d ", prev - next);
-		tmp = prev - next;
-		prev = next;
-		next = tmp;
-	}
+	int n, k = 2;
 	//logic
-
+	scanf_s("%d", &n);
+	while (1) {
+		if (n == 1)break;
+		else if (n % k == 0) printf("%d ", k), n /= k;
+		else k++;
+	}
 	//output
 
 	return 0;
