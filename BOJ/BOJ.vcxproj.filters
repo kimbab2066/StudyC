@@ -192,5 +192,8 @@
     <ClCompile Include="10825.cpp">
       <Filter>소스 파일\정렬2\두다안</Filter>
     </ClCompile>
+    <ClCompile Include="7795.cpp">
+      <Filter>소스 파일\정렬2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
