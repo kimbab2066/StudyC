@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\정렬2\두다안">
       <UniqueIdentifier>{c5364f23-b6d9-4d2e-b6e1-925c54234557}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\DP">
+      <UniqueIdentifier>{5562d6a7-489e-4fcc-9f97-fa299df316d4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="15683감시.cpp">
@@ -194,6 +197,12 @@
     </ClCompile>
     <ClCompile Include="7795.cpp">
       <Filter>소스 파일\정렬2</Filter>
+    </ClCompile>
+    <ClCompile Include="DP_1.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="2579.cpp">
+      <Filter>소스 파일\DP</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
