@@ -159,5 +159,41 @@
     <ClCompile Include="6일차복습_2.cpp">
       <Filter>소스 파일\복습</Filter>
     </ClCompile>
+    <ClCompile Include="6일차복습_3.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
+    <ClCompile Include="5일차_3.cpp">
+      <Filter>소스 파일\예습</Filter>
+    </ClCompile>
+    <ClCompile Include="6일차.cpp">
+      <Filter>소스 파일\예습</Filter>
+    </ClCompile>
+    <ClCompile Include="wrap.cpp">
+      <Filter>소스 파일\예습</Filter>
+    </ClCompile>
+    <ClCompile Include="day7_offset.cpp">
+      <Filter>소스 파일\0118%287일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day7_wrap.cpp">
+      <Filter>소스 파일\0118%287일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day7_3.cpp">
+      <Filter>소스 파일\0118%287일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day7_top.cpp">
+      <Filter>소스 파일\0118%287일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day7_ball.cpp">
+      <Filter>소스 파일\0118%287일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day7_magic.cpp">
+      <Filter>소스 파일\0118%287일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day7_bomb_game.cpp">
+      <Filter>소스 파일\0118%287일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day7_bingo.cpp">
+      <Filter>소스 파일\0118%287일차%29</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

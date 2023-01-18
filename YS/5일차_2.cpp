@@ -1,41 +1,35 @@
 #include <stdio.h>
-//
-int num[100][2];
-int cnt;
-int i, j, k;
-int n, m;
-int t[2];
+
+//프린터(다른 사람꺼 내껀 따로)
+#define MAX 100
 
 int main() {
 	//input
+	int arr[MAX];
+	int n, m;
+	int i, j;
+	int mx, temp;
 	scanf_s("%d%d", &n, &m);
-	for (i = 0; i < n; i++) {
-		num[i][0] = i;
-		scanf_s("%d", &num[i][1]);
-	}
+	for (i = 0; i < n; i++) scanf_s("%d", &arr[i]);
 	//logic
-	for (i = 0; i < n - 1; i++) {
-		for (j = i + 1; j < n; j++) {
-			// 우선 순위가 높은 경우가 있으면
-			if (num[i][1] < num[j][1]) {
-				t[0] = num[i][0];
-				t[1] = num[i][1];
-				for (k = j; k < n - 1; k++) {
-					num[k][0] = num[k + 1][0];
-					num[k][1] = num[j + 1][1];
-				}
-				num[n - 1][0] = t[0];
-				num[n - 1][1] = t[1];
-			}//if
-			else {
-
+	for (i = 0; i < n; i++) {
+		mx = i;
+		for (j = i; j < n; j++) mx = arr[mx] < arr[j] ? j : mx;
+		while (mx != i) {
+			temp = arr[i];
+			if (i == m) m = n;
+			for (j = i; j < n - 1; j++) {
+				arr[j] = arr[j + 1];
+				if (j + 1 == m) m--;
 			}
-		}
-	}
+			arr[n - 1] = temp;
+			if (m == n) m--;
+			mx--;
+		}//while
+	}//for
 
 	//output
-	printf("%d", cnt);
-
+	printf("%d", m + 1);
 
 	return 0;
 }//main
