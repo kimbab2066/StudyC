@@ -33,7 +33,7 @@ int main() {
 			if (sum > max) max = sum;
 			// 왼쪽 아래 대각선
 			for (x = 0, sum = 0; x < 5; x++) {
-				if (j - x < 0) sum += a[(i + x) % 10][(10 + j - x) % 10];
+				if (j - x < 0) sum += a[(i + x) % 10][10 + (j - x)];
 				else sum += a[(i + x) % 10][j - x];
 			}
 			if (sum > max) max = sum;
