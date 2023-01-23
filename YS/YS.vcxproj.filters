@@ -216,8 +216,17 @@
     <ClCompile Include="day8_gift_giver.cpp">
       <Filter>소스 파일\0120%288일차%29</Filter>
     </ClCompile>
-    <ClCompile Include="8일차.cpp">
+    <ClCompile Include="8일차복습.cpp">
       <Filter>소스 파일\복습</Filter>
+    </ClCompile>
+    <ClCompile Include="8일차.cpp">
+      <Filter>소스 파일\예습</Filter>
+    </ClCompile>
+    <ClCompile Include="8일차복습_2.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
+    <ClCompile Include="8일차_과제.cpp">
+      <Filter>소스 파일\예습</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
