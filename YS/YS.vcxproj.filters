@@ -28,9 +28,6 @@
     <Filter Include="소스 파일\복습">
       <UniqueIdentifier>{32648d40-57eb-4fff-be11-ec5de53b8357}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\예습">
-      <UniqueIdentifier>{dc7b3b62-0f3e-4a02-9839-8256c27bd32e}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\0111%284일차%29">
       <UniqueIdentifier>{a6799cf5-29aa-4fe4-b3c4-08fb83908e89}</UniqueIdentifier>
     </Filter>
@@ -51,6 +48,15 @@
     </Filter>
     <Filter Include="소스 파일\0126%2810일차%29">
       <UniqueIdentifier>{90ae7cff-abba-435f-8043-eea7805ff5b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\예습2">
+      <UniqueIdentifier>{4979dc3e-a57d-4d2e-8c62-fa948228b3cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\예습%281~9일차%29">
+      <UniqueIdentifier>{dc7b3b62-0f3e-4a02-9839-8256c27bd32e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\주간복습용">
+      <UniqueIdentifier>{f0b1e0e3-0824-4d95-aa54-4fc7d7e17ba0}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -91,13 +97,13 @@
       <Filter>소스 파일\복습</Filter>
     </ClCompile>
     <ClCompile Include="1일차.cpp">
-      <Filter>소스 파일\예습</Filter>
+      <Filter>소스 파일\예습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="day4_1.cpp">
       <Filter>소스 파일\0111%284일차%29</Filter>
     </ClCompile>
     <ClCompile Include="2,3일차.cpp">
-      <Filter>소스 파일\예습</Filter>
+      <Filter>소스 파일\예습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="day4_2.cpp">
       <Filter>소스 파일\0111%284일차%29</Filter>
@@ -109,7 +115,7 @@
       <Filter>소스 파일\복습</Filter>
     </ClCompile>
     <ClCompile Include="4일차.cpp">
-      <Filter>소스 파일\예습</Filter>
+      <Filter>소스 파일\예습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="day5_1.cpp">
       <Filter>소스 파일\0113%285일차%29</Filter>
@@ -124,10 +130,10 @@
       <Filter>소스 파일\복습</Filter>
     </ClCompile>
     <ClCompile Include="5일차.cpp">
-      <Filter>소스 파일\예습</Filter>
+      <Filter>소스 파일\예습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="5일차_2.cpp">
-      <Filter>소스 파일\예습</Filter>
+      <Filter>소스 파일\예습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="day6_1.cpp">
       <Filter>소스 파일\0116%286일차%29</Filter>
@@ -169,10 +175,10 @@
       <Filter>소스 파일\복습</Filter>
     </ClCompile>
     <ClCompile Include="5일차_3.cpp">
-      <Filter>소스 파일\예습</Filter>
+      <Filter>소스 파일\예습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="6일차.cpp">
-      <Filter>소스 파일\예습</Filter>
+      <Filter>소스 파일\예습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="day7_offset.cpp">
       <Filter>소스 파일\0118%287일차%29</Filter>
@@ -202,10 +208,10 @@
       <Filter>소스 파일\복습</Filter>
     </ClCompile>
     <ClCompile Include="7일차.cpp">
-      <Filter>소스 파일\예습</Filter>
+      <Filter>소스 파일\예습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="7일차_어망투망.cpp">
-      <Filter>소스 파일\예습</Filter>
+      <Filter>소스 파일\예습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="7일차_spiral.cpp">
       <Filter>소스 파일\복습</Filter>
@@ -219,14 +225,38 @@
     <ClCompile Include="8일차복습.cpp">
       <Filter>소스 파일\복습</Filter>
     </ClCompile>
-    <ClCompile Include="8일차.cpp">
-      <Filter>소스 파일\예습</Filter>
+    <ClCompile Include="8일차_진수변환.cpp">
+      <Filter>소스 파일\예습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="8일차복습_2.cpp">
       <Filter>소스 파일\복습</Filter>
     </ClCompile>
-    <ClCompile Include="8일차_과제.cpp">
-      <Filter>소스 파일\예습</Filter>
+    <ClCompile Include="8일차_비슷한단어.cpp">
+      <Filter>소스 파일\예습%281~9일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="8일차_비밀편지.cpp">
+      <Filter>소스 파일\예습%281~9일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day9_1.cpp">
+      <Filter>소스 파일\0125%289일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day9_2.cpp">
+      <Filter>소스 파일\0125%289일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="9일차복습.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
+    <ClCompile Include="9일차_이중_회귀수.cpp">
+      <Filter>소스 파일\예습%281~9일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="9일차_이진회귀수.cpp">
+      <Filter>소스 파일\예습%281~9일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="9일차_소수회귀수.cpp">
+      <Filter>소스 파일\예습%281~9일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="pra1.cpp">
+      <Filter>소스 파일\주간복습용</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
