@@ -25,9 +25,6 @@
     <Filter Include="소스 파일\0109%283일차%29">
       <UniqueIdentifier>{3f9fd342-3dbb-42a6-b6ee-0191698cea90}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\복습">
-      <UniqueIdentifier>{32648d40-57eb-4fff-be11-ec5de53b8357}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\0111%284일차%29">
       <UniqueIdentifier>{a6799cf5-29aa-4fe4-b3c4-08fb83908e89}</UniqueIdentifier>
     </Filter>
@@ -46,17 +43,38 @@
     <Filter Include="소스 파일\0125%289일차%29">
       <UniqueIdentifier>{a13a6de9-fd19-435c-aee5-863b80f06681}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\0126%2810일차%29">
-      <UniqueIdentifier>{90ae7cff-abba-435f-8043-eea7805ff5b7}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\예습2">
-      <UniqueIdentifier>{4979dc3e-a57d-4d2e-8c62-fa948228b3cf}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\예습%281~9일차%29">
       <UniqueIdentifier>{dc7b3b62-0f3e-4a02-9839-8256c27bd32e}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\주간복습용">
       <UniqueIdentifier>{f0b1e0e3-0824-4d95-aa54-4fc7d7e17ba0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0203%2811일차%29">
+      <UniqueIdentifier>{8eb89252-b9cf-4555-9448-9d558f3f9222}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0202%2810일차%29">
+      <UniqueIdentifier>{90ae7cff-abba-435f-8043-eea7805ff5b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0206%2812일차%29">
+      <UniqueIdentifier>{be3fe42a-f5c5-4420-a609-b7ec05428db6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0208%2813일차%29">
+      <UniqueIdentifier>{5d10a038-4929-4fa7-8d31-773a745a64d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0210%2814일차%29">
+      <UniqueIdentifier>{e7007d6d-bfb2-4e5b-be05-0920db09bfc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0213%2815일차%29">
+      <UniqueIdentifier>{59d124dc-5ce6-421a-9027-0a9776294e65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\복습%281~9일차%29">
+      <UniqueIdentifier>{32648d40-57eb-4fff-be11-ec5de53b8357}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\복습%2810~15일차%29">
+      <UniqueIdentifier>{107fff2f-c353-424b-9bb5-30392a84c7e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\예습2%2810~15일차%29">
+      <UniqueIdentifier>{4979dc3e-a57d-4d2e-8c62-fa948228b3cf}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -94,7 +112,7 @@
       <Filter>소스 파일\0109%283일차%29</Filter>
     </ClCompile>
     <ClCompile Include="3일차복습.cpp">
-      <Filter>소스 파일\복습</Filter>
+      <Filter>소스 파일\복습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="1일차.cpp">
       <Filter>소스 파일\예습%281~9일차%29</Filter>
@@ -112,7 +130,7 @@
       <Filter>소스 파일\0111%284일차%29</Filter>
     </ClCompile>
     <ClCompile Include="4일차복습.cpp">
-      <Filter>소스 파일\복습</Filter>
+      <Filter>소스 파일\복습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="4일차.cpp">
       <Filter>소스 파일\예습%281~9일차%29</Filter>
@@ -127,7 +145,7 @@
       <Filter>소스 파일\0113%285일차%29</Filter>
     </ClCompile>
     <ClCompile Include="5일차복습.cpp">
-      <Filter>소스 파일\복습</Filter>
+      <Filter>소스 파일\복습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="5일차.cpp">
       <Filter>소스 파일\예습%281~9일차%29</Filter>
@@ -166,13 +184,13 @@
       <Filter>소스 파일\0116%286일차%29</Filter>
     </ClCompile>
     <ClCompile Include="6일차복습.cpp">
-      <Filter>소스 파일\복습</Filter>
+      <Filter>소스 파일\복습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="6일차복습_2.cpp">
-      <Filter>소스 파일\복습</Filter>
+      <Filter>소스 파일\복습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="6일차복습_3.cpp">
-      <Filter>소스 파일\복습</Filter>
+      <Filter>소스 파일\복습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="5일차_3.cpp">
       <Filter>소스 파일\예습%281~9일차%29</Filter>
@@ -205,7 +223,7 @@
       <Filter>소스 파일\0118%287일차%29</Filter>
     </ClCompile>
     <ClCompile Include="7일차복습.cpp">
-      <Filter>소스 파일\복습</Filter>
+      <Filter>소스 파일\복습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="7일차.cpp">
       <Filter>소스 파일\예습%281~9일차%29</Filter>
@@ -214,7 +232,7 @@
       <Filter>소스 파일\예습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="7일차_spiral.cpp">
-      <Filter>소스 파일\복습</Filter>
+      <Filter>소스 파일\복습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="day8_comma.cpp">
       <Filter>소스 파일\0120%288일차%29</Filter>
@@ -223,13 +241,13 @@
       <Filter>소스 파일\0120%288일차%29</Filter>
     </ClCompile>
     <ClCompile Include="8일차복습.cpp">
-      <Filter>소스 파일\복습</Filter>
+      <Filter>소스 파일\복습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="8일차_진수변환.cpp">
       <Filter>소스 파일\예습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="8일차복습_2.cpp">
-      <Filter>소스 파일\복습</Filter>
+      <Filter>소스 파일\복습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="8일차_비슷한단어.cpp">
       <Filter>소스 파일\예습%281~9일차%29</Filter>
@@ -244,7 +262,7 @@
       <Filter>소스 파일\0125%289일차%29</Filter>
     </ClCompile>
     <ClCompile Include="9일차복습.cpp">
-      <Filter>소스 파일\복습</Filter>
+      <Filter>소스 파일\복습%281~9일차%29</Filter>
     </ClCompile>
     <ClCompile Include="9일차_이중_회귀수.cpp">
       <Filter>소스 파일\예습%281~9일차%29</Filter>
@@ -255,8 +273,74 @@
     <ClCompile Include="9일차_소수회귀수.cpp">
       <Filter>소스 파일\예습%281~9일차%29</Filter>
     </ClCompile>
-    <ClCompile Include="pra1.cpp">
+    <ClCompile Include="lock%28못품%29.cpp">
       <Filter>소스 파일\주간복습용</Filter>
+    </ClCompile>
+    <ClCompile Include="10일차_robot.cpp">
+      <Filter>소스 파일\예습2%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="sfn%28못품%29.cpp">
+      <Filter>소스 파일\주간복습용</Filter>
+    </ClCompile>
+    <ClCompile Include="pr1.cpp">
+      <Filter>소스 파일\주간복습용</Filter>
+    </ClCompile>
+    <ClCompile Include="day10_pat.cpp">
+      <Filter>소스 파일\0202%2810일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day10_athletic.cpp">
+      <Filter>소스 파일\0202%2810일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day10_1.cpp">
+      <Filter>소스 파일\복습%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="10일차_permu%28못품%29.cpp">
+      <Filter>소스 파일\예습2%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="10일차_secure.cpp">
+      <Filter>소스 파일\예습2%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day11_9012.cpp">
+      <Filter>소스 파일\0203%2811일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day11_1918.cpp">
+      <Filter>소스 파일\0203%2811일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day11_rails.cpp">
+      <Filter>소스 파일\0203%2811일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day11_tw.cpp">
+      <Filter>소스 파일\0203%2811일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="11일차_dish.cpp">
+      <Filter>소스 파일\예습2%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="11일차_paren.cpp">
+      <Filter>소스 파일\예습2%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day11_1.cpp">
+      <Filter>소스 파일\복습%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day12_insertion.cpp">
+      <Filter>소스 파일\0206%2812일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day12_jolly%28미완%29.cpp">
+      <Filter>소스 파일\0206%2812일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day12_jolly%28미완2%29.cpp">
+      <Filter>소스 파일\0206%2812일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day12_notaskwhy.cpp">
+      <Filter>소스 파일\0206%2812일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day12_notaskwhy_2.cpp">
+      <Filter>소스 파일\0206%2812일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day12_1.cpp">
+      <Filter>소스 파일\복습%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="12일차_1.cpp">
+      <Filter>소스 파일\예습2%2810~15일차%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
