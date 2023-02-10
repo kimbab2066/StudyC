@@ -324,12 +324,6 @@
     <ClCompile Include="day12_insertion.cpp">
       <Filter>소스 파일\0206%2812일차%29</Filter>
     </ClCompile>
-    <ClCompile Include="day12_jolly%28미완%29.cpp">
-      <Filter>소스 파일\0206%2812일차%29</Filter>
-    </ClCompile>
-    <ClCompile Include="day12_jolly%28미완2%29.cpp">
-      <Filter>소스 파일\0206%2812일차%29</Filter>
-    </ClCompile>
     <ClCompile Include="day12_notaskwhy.cpp">
       <Filter>소스 파일\0206%2812일차%29</Filter>
     </ClCompile>
@@ -341,6 +335,57 @@
     </ClCompile>
     <ClCompile Include="12일차_1.cpp">
       <Filter>소스 파일\예습2%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day12_shake.cpp">
+      <Filter>소스 파일\복습%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="12일차_omok.cpp">
+      <Filter>소스 파일\예습2%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="12일차_radix_sort.cpp">
+      <Filter>소스 파일\예습2%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="12일차_0208.cpp">
+      <Filter>소스 파일\예습2%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="13일차_0208.cpp">
+      <Filter>소스 파일\예습2%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day13_barn.cpp">
+      <Filter>소스 파일\0208%2813일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day13_moving_table.cpp">
+      <Filter>소스 파일\0208%2813일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day13_냉장고.cpp">
+      <Filter>소스 파일\0208%2813일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day13_1.cpp">
+      <Filter>소스 파일\복습%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day13_2457%28다시%29.cpp">
+      <Filter>소스 파일\복습%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day13_8980%28못품%29.cpp">
+      <Filter>소스 파일\복습%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day13_8980(정답소스).cpp">
+      <Filter>소스 파일\복습%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day12_ncross.cpp">
+      <Filter>소스 파일\복습%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day14_미로탐색+역추적.cpp">
+      <Filter>소스 파일\0210%2814일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day14_촌수계산+역추적.cpp">
+      <Filter>소스 파일\0210%2814일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day14_2667.cpp">
+      <Filter>소스 파일\복습%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day14_1.cpp">
+      <Filter>소스 파일\복습%2810~15일차%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
