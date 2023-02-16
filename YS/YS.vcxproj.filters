@@ -387,5 +387,20 @@
     <ClCompile Include="day14_1.cpp">
       <Filter>소스 파일\복습%2810~15일차%29</Filter>
     </ClCompile>
+    <ClCompile Include="0211%28총괄복습2%29.cpp">
+      <Filter>소스 파일\주간복습용</Filter>
+    </ClCompile>
+    <ClCompile Include="day15_2470.cpp">
+      <Filter>소스 파일\0213%2815일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day15_촌수계산.cpp">
+      <Filter>소스 파일\0213%2815일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="day15_1.cpp">
+      <Filter>소스 파일\복습%2810~15일차%29</Filter>
+    </ClCompile>
+    <ClCompile Include="0214.cpp">
+      <Filter>소스 파일\주간복습용</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

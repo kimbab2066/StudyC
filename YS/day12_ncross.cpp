@@ -26,6 +26,7 @@ int main()
 	//
 	for (int i = 0; i < n / 2; i++) {
 		for (int j = 0; j < n; j++) {
+			// 같은 값이면 j로 바꿔주라는 의미
 			if (arr[j].a * 100 + arr[j].b == tc[i].a) tc[i].a = j;
 			if (arr[j].a * 100 + arr[j].b == tc[i].b) tc[i].b = j;
 		}
@@ -44,6 +45,7 @@ int main()
 			else {
 				l2 = tc[j].a; r2 = tc[j].b;
 			}
+			// 조건 충족 시 cnt,tc[i],tc[j] ++
 			if ((l2 < l && l < r2 && r2 < r) || (l2 < r && r < r2 && l < l2)) {
 				cnt++;
 				tc[i].cnt++;
