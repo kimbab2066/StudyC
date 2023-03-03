@@ -402,5 +402,8 @@
     <ClCompile Include="0214.cpp">
       <Filter>소스 파일\주간복습용</Filter>
     </ClCompile>
+    <ClCompile Include="P1.cpp">
+      <Filter>소스 파일\테스트</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
