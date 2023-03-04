@@ -45,5 +45,14 @@
     <ClCompile Include="1836.cpp">
       <Filter>소스 파일\Beginner\6.여러가지</Filter>
     </ClCompile>
+    <ClCompile Include="하노이2.cpp">
+      <Filter>소스 파일\Beginner\7.재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자고르기.cpp">
+      <Filter>소스 파일\Beginner\7.재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자고르기2.cpp">
+      <Filter>소스 파일\Beginner\7.재귀</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

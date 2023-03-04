@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\DP">
       <UniqueIdentifier>{5562d6a7-489e-4fcc-9f97-fa299df316d4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\삼성역테">
+      <UniqueIdentifier>{96651769-45b6-4b33-ba04-759553238283}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="15683감시.cpp">
@@ -203,6 +206,9 @@
     </ClCompile>
     <ClCompile Include="2579.cpp">
       <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="13460.cpp">
+      <Filter>소스 파일\삼성역테</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
