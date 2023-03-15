@@ -54,5 +54,17 @@
     <ClCompile Include="숫자고르기2.cpp">
       <Filter>소스 파일\Beginner\7.재귀</Filter>
     </ClCompile>
+    <ClCompile Include="다음조합.cpp">
+      <Filter>소스 파일\Beginner\7.재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="로또.cpp">
+      <Filter>소스 파일\Beginner\7.재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="싸이클.cpp">
+      <Filter>소스 파일\Beginner\7.재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="장난감조립.cpp">
+      <Filter>소스 파일\Beginner\7.재귀</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
