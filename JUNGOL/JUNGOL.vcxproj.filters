@@ -22,6 +22,12 @@
     <Filter Include="소스 파일\Beginner\7.재귀">
       <UniqueIdentifier>{923d5169-2869-4870-9c07-ef5f0a573072}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Immediate">
+      <UniqueIdentifier>{6e707936-d179-4246-b05f-2c0c2fdb6aa3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Immediate\1.이진탐색">
+      <UniqueIdentifier>{7167614c-09a1-4af9-8c89-052f33d26722}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="하노이.cpp">
@@ -65,6 +71,9 @@
     </ClCompile>
     <ClCompile Include="장난감조립.cpp">
       <Filter>소스 파일\Beginner\7.재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="나무꾼미르코.cpp">
+      <Filter>소스 파일\Immediate\1.이진탐색</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
