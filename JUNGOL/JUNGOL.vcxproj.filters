@@ -28,14 +28,17 @@
     <Filter Include="소스 파일\Immediate\1.이진탐색">
       <UniqueIdentifier>{7167614c-09a1-4af9-8c89-052f33d26722}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\Immediate\DP">
-      <UniqueIdentifier>{814e4162-b04a-4fdd-b714-338edaa9be20}</UniqueIdentifier>
+    <Filter Include="소스 파일\Immediate\3.그리디">
+      <UniqueIdentifier>{52240ecd-ed17-4832-b961-34c186eafa78}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\Immediate\백트래킹">
+    <Filter Include="소스 파일\Immediate\4.백트래킹">
       <UniqueIdentifier>{1ea8695e-1b3d-4285-96b6-9cdf5aa80062}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\Immediate\DFS">
+    <Filter Include="소스 파일\Immediate\5.DFS">
       <UniqueIdentifier>{50e8a0b5-9a16-449e-9761-d8e576c5bafb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Immediate\7.DP">
+      <UniqueIdentifier>{814e4162-b04a-4fdd-b714-338edaa9be20}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -85,19 +88,31 @@
       <Filter>소스 파일\Immediate\1.이진탐색</Filter>
     </ClCompile>
     <ClCompile Include="test1.cpp">
-      <Filter>소스 파일\Immediate\DP</Filter>
+      <Filter>소스 파일\Immediate\7.DP</Filter>
     </ClCompile>
     <ClCompile Include="nQueen.cpp">
-      <Filter>소스 파일\Immediate\백트래킹</Filter>
+      <Filter>소스 파일\Immediate\4.백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="backT.cpp">
-      <Filter>소스 파일\Immediate\백트래킹</Filter>
+      <Filter>소스 파일\Immediate\4.백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="해밀턴순환회로.cpp">
-      <Filter>소스 파일\Immediate\백트래킹</Filter>
+      <Filter>소스 파일\Immediate\4.백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="단지번호붙이기%28DFS%29.cpp">
-      <Filter>소스 파일\Immediate\DFS</Filter>
+      <Filter>소스 파일\Immediate\5.DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="모자이크.cpp">
+      <Filter>소스 파일\Immediate\1.이진탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="1370.cpp">
+      <Filter>소스 파일\Immediate\3.그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="냉장고%28RE%29.cpp">
+      <Filter>소스 파일\Immediate\3.그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="냉장고.cpp">
+      <Filter>소스 파일\Immediate\3.그리디</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

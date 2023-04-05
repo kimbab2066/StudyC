@@ -49,6 +49,18 @@
     <Filter Include="소스 파일\BST">
       <UniqueIdentifier>{95fa5ec4-d396-490f-94ef-96cc985cc506}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\단기성장">
+      <UniqueIdentifier>{ae251555-5540-4bc2-ba88-f388eb219a45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\다시해야함">
+      <UniqueIdentifier>{5aa6c293-fb48-43ac-8dc5-c8e7c79f85d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\그리디">
+      <UniqueIdentifier>{38fb3fef-b541-4d23-8437-a491ce851a4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DP\LIS">
+      <UniqueIdentifier>{f60cf485-b05a-4bbc-ac40-68f6fcf4d94b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="15683감시.cpp">
@@ -221,6 +233,21 @@
     </ClCompile>
     <ClCompile Include="5639.cpp">
       <Filter>소스 파일\BST</Filter>
+    </ClCompile>
+    <ClCompile Include="ttt1.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="1655%28다시%29.cpp">
+      <Filter>소스 파일\다시해야함</Filter>
+    </ClCompile>
+    <ClCompile Include="1655.cpp">
+      <Filter>소스 파일\단기성장</Filter>
+    </ClCompile>
+    <ClCompile Include="11053%28RE%29.cpp">
+      <Filter>소스 파일\DP\LIS</Filter>
+    </ClCompile>
+    <ClCompile Include="1202%28미완%29.cpp">
+      <Filter>소스 파일\그리디</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
