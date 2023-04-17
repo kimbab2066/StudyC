@@ -22,9 +22,6 @@
     <Filter Include="소스 파일\초반부">
       <UniqueIdentifier>{7e1e97e0-750f-4b82-8d5a-c5a177245b36}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\BFS">
-      <UniqueIdentifier>{52b81437-de36-4179-b3a8-71b0bcd89f7a}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\정렬">
       <UniqueIdentifier>{2c89c96b-1f6e-42f1-a8ee-7210231abf78}</UniqueIdentifier>
     </Filter>
@@ -60,6 +57,12 @@
     </Filter>
     <Filter Include="소스 파일\DP\LIS">
       <UniqueIdentifier>{f60cf485-b05a-4bbc-ac40-68f6fcf4d94b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\그래프">
+      <UniqueIdentifier>{bda598f1-ce11-47de-96f0-dec9307f0b2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BFS&amp;DFS">
+      <UniqueIdentifier>{52b81437-de36-4179-b3a8-71b0bcd89f7a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -106,34 +109,34 @@
       <Filter>소스 파일\초반부</Filter>
     </ClCompile>
     <ClCompile Include="5427Fire.cpp">
-      <Filter>소스 파일\BFS</Filter>
+      <Filter>소스 파일\BFS&amp;DFS</Filter>
     </ClCompile>
     <ClCompile Include="15651N과M3.cpp">
       <Filter>소스 파일\백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="6593.cpp">
-      <Filter>소스 파일\BFS</Filter>
+      <Filter>소스 파일\BFS&amp;DFS</Filter>
     </ClCompile>
     <ClCompile Include="6593_2.cpp">
-      <Filter>소스 파일\BFS</Filter>
+      <Filter>소스 파일\BFS&amp;DFS</Filter>
     </ClCompile>
     <ClCompile Include="6593_3.cpp">
-      <Filter>소스 파일\BFS</Filter>
+      <Filter>소스 파일\BFS&amp;DFS</Filter>
     </ClCompile>
     <ClCompile Include="2206.cpp">
-      <Filter>소스 파일\BFS</Filter>
+      <Filter>소스 파일\BFS&amp;DFS</Filter>
     </ClCompile>
     <ClCompile Include="2206_2.cpp">
-      <Filter>소스 파일\BFS</Filter>
+      <Filter>소스 파일\BFS&amp;DFS</Filter>
     </ClCompile>
     <ClCompile Include="11931.cpp">
       <Filter>소스 파일\정렬</Filter>
     </ClCompile>
     <ClCompile Include="9466.cpp">
-      <Filter>소스 파일\BFS</Filter>
+      <Filter>소스 파일\BFS&amp;DFS</Filter>
     </ClCompile>
     <ClCompile Include="9466_2.cpp">
-      <Filter>소스 파일\BFS</Filter>
+      <Filter>소스 파일\BFS&amp;DFS</Filter>
     </ClCompile>
     <ClCompile Include="11728.cpp">
       <Filter>소스 파일\정렬</Filter>
@@ -142,10 +145,10 @@
       <Filter>소스 파일\정렬</Filter>
     </ClCompile>
     <ClCompile Include="2573.cpp">
-      <Filter>소스 파일\BFS</Filter>
+      <Filter>소스 파일\BFS&amp;DFS</Filter>
     </ClCompile>
     <ClCompile Include="14442.cpp">
-      <Filter>소스 파일\BFS</Filter>
+      <Filter>소스 파일\BFS&amp;DFS</Filter>
     </ClCompile>
     <ClCompile Include="1780.cpp">
       <Filter>소스 파일\재귀</Filter>
@@ -248,6 +251,18 @@
     </ClCompile>
     <ClCompile Include="1202%28미완%29.cpp">
       <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="11404.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="1753.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="1931.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="5014.cpp">
+      <Filter>소스 파일\BFS&amp;DFS</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

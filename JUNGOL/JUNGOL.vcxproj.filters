@@ -108,10 +108,19 @@
     <ClCompile Include="1370.cpp">
       <Filter>소스 파일\Immediate\3.그리디</Filter>
     </ClCompile>
-    <ClCompile Include="냉장고%28RE%29.cpp">
+    <ClCompile Include="냉장고%28RE0424예정%29.cpp">
       <Filter>소스 파일\Immediate\3.그리디</Filter>
     </ClCompile>
     <ClCompile Include="냉장고.cpp">
+      <Filter>소스 파일\Immediate\3.그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="저울%28RE0424예정%29.cpp">
+      <Filter>소스 파일\Immediate\3.그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1183%28RE0419예정%29.cpp">
+      <Filter>소스 파일\Immediate\3.그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1183.cpp">
       <Filter>소스 파일\Immediate\3.그리디</Filter>
     </ClCompile>
   </ItemGroup>
